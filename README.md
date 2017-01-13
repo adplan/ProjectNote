@@ -8,7 +8,7 @@ Cahier des Charges :
 - Possibilité de jouer des notes d'un instrument de musique à partir de touches
 - Possibilité de créer et d'éditer une partition
 - Possibilité d'importer une partition
-- Possibilité de changer d'instrument de Musique
+- Possibilité de changer d'instrument de Musique.
 
 ###
 
